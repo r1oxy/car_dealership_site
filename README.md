@@ -1,4 +1,4 @@
-<div style="font-size: 28px"> Car Dealership project </div> 
+<div style="text-align: center;"> Car Dealership project </div> 
 
 <img src="https://i.ibb.co/JFw50nR/2022-11-26-18-54-49-Trim-Adobe-Express-Adobe-Express.gif" border="0" width="100%">
 
